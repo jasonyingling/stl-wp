@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     Stl Wp
  * Plugin URI:      New Branch
- * Description:     PLUGIN DESCRIPTION HERE
+ * Description:     And also this
  * Author:          YOUR NAME HERE
  * Author URI:      YOUR SITE HERE
  * Text Domain:     stl-wp
