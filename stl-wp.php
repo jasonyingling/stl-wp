@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     Stl Wp
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      New Branch
  * Description:     PLUGIN DESCRIPTION HERE
  * Author:          YOUR NAME HERE
  * Author URI:      YOUR SITE HERE
