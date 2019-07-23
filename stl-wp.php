@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name:     Stl Wp
- * Plugin URI:      PLUGIN SITE HERE
- * Description:     PLUGIN DESCRIPTION HERE
+ * Plugin URI:      New Branch
+ * Description:     And also this
  * Author:          YOUR NAME HERE
  * Author URI:      YOUR SITE HERE
  * Text Domain:     stl-wp
